@@ -45,5 +45,22 @@ h1 {
 }
 
 
+/*Table style*/
 
+table {
+    text-align: left;
+    border-spacing: 0;
+}
 
+.cella1 {
+    width: 25%;
+}
+
+th {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.dispari {
+    background-color: #b1e5f2;
+}
