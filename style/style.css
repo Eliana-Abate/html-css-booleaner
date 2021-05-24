@@ -48,6 +48,9 @@ h1 {
     background-color: yellow;
 }
 
+figcaption {
+    font-size: 12px;
+}
 
 /*Table style*/
 
